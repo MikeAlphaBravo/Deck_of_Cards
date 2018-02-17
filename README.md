@@ -9,7 +9,13 @@
 _I started off by reviewing my JavaScript notes from my coursework and Googling some examples of solutions to this problem.  It has been some time since I worked in a basic file structure and I needed a refresher as to how to set up my file structure in JS._
 _My unfamiliarity with Java initially led me to build this in Ruby but then I felt JS was a better challenge for me and more applicable to the goal of the challenge.
 
-_I will begin by defining my variables._
+_My initial response to the challenge in sudo code is this:  
+To define what a 'card' is with a value and suit followed by filling out a 'deck'  
+Then I would loop through those cards to shuffle and present them  
+Followed by working on something to display them one by one to a user_
+
+_I will begin by defining my variables, card first:  A card will have a value and a suit and belong to a deck._
+
 
 _The goal of this app is to develop a deck of cards that has the ability by the user to be shuffled and drawn from._
 
