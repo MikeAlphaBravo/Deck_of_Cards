@@ -16,6 +16,7 @@ Followed by working on something to display them one by one to a user_
 
 _I will begin by defining my variables, card first:  A card will have a value and a suit and belong to a deck._
 
+_Next will be pulling the deck essentially looping through suits and then values within suits.  Return the deck._
 
 _The goal of this app is to develop a deck of cards that has the ability by the user to be shuffled and drawn from._
 
