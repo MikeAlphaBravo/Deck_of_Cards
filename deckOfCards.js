@@ -28,3 +28,17 @@ function returnDeck() {
 }
 
 //Shuffle deck
+function shuffle()
+{
+	// for 100 times through
+	// switch the values of two random cards
+	for (var i = 0; i < 100; i++)
+	{
+		var card1 = Math.floor((Math.random() * deck.length));
+		var card2 = Math.floor((Math.random() * deck.length));
+		var placeholder = deck[card1];
+
+		deck[card1] = deck[card2];
+		deck[card2] = placeholder;
+	}
+}

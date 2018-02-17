@@ -6,6 +6,8 @@
 
 ## Description
 
+_The goal of this app is to develop a deck of cards that has the ability by the user to be shuffled and drawn from._
+
 _I started off by reviewing my JavaScript notes from my coursework and Googling some examples of solutions to this problem.  It has been some time since I worked in a basic file structure and I needed a refresher as to how to set up my file structure in JS._
 _My unfamiliarity with Java initially led me to build this in Ruby but then I felt JS was a better challenge for me and more applicable to the goal of the challenge.
 
@@ -18,9 +20,9 @@ _I will begin by defining my variables, card first:  A card will have a value an
 
 _Next will be pulling the deck essentially looping through suits and then values within suits.  Return the deck._
 
-_Then I will need to shuffle the 52 existing cards._
+_Then I will need to shuffle the 52 existing cards... OR do I just draw a card by .random?  I will start by exploring shuffle by swap of cards in a loop._
 
-_The goal of this app is to develop a deck of cards that has the ability by the user to be shuffled and drawn from._
+_Next
 
 ## User Stories
 
