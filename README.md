@@ -22,7 +22,7 @@ _Next will be pulling the deck essentially looping through suits and then values
 
 _Then I will need to shuffle the 52 existing cards... OR do I just draw a card by .random?  I will start by exploring shuffle by swap of cards in a loop._
 
-_Next
+_Next I need to test my code which frankly I have not done in some time so I'm going to start by importing a simpole css and building out a button and viewer in html so I can visually interact with the functions outside of the command line._
 
 ## User Stories
 
